@@ -20,6 +20,6 @@ Thanks for checking my github out. Using my Github, I am primarily focused on im
 To check out my website [click here!](https://sabeenahmad.github.io)<br>
 I am also in charge of KU Women in Computing's Website, to learn more about them [click here](https://ukansas-wic.github.io)<br>
 Feel free to connect with me!<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabeenahmad-) [![Email](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png)](mailto:sabeenahmad21@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabeenahmad-) [![Email](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gmail_Icon.svg/32px-Gmail_Icon.svg.png)](mailto:sabeenahmad21@gmail.com)
 
 
