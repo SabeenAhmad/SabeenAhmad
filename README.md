@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**WELCOME TO MY GITHUB!**
+**WELCOME TO MY GITHUB!**\n
 Thanks for checking my github out. Using my Github, I am primarily focused on improving my coding skills to become a better candidate for *full-stack software engineering* and *data analytics* positions.
