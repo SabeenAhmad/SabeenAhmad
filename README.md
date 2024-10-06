@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 **WELCOME TO MY GITHUB!**<br>
 Thanks for checking my github out. Using my Github, I am primarily focused on improving my coding skills to become a better candidate for ***full-stack software engineering*** and ***data analytics*** positions.<br>
 To check out my website [click here!](https://sabeenahmad.github.io)<br>
-I am also in charge of KU Women in Computing's Website, to learn more about them [click here](https://ukansas-wic.github.io)<br>
+I am also in charge of KU Women in Computing's Website, to learn more about them [click here!](https://ukansas-wic.github.io)<br>
 Feel free to connect with me!<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabeenahmad-)    [![Email](https://img.icons8.com/color/48/000000/gmail.png)](mailto:sabeenahmad21@gmail.com)
 
